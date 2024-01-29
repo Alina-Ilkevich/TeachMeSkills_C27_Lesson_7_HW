@@ -1,12 +1,8 @@
 package com.teachmeskills.lesson7.task2.figure;
-
 import com.teachmeskills.lesson7.task2.figure.Figure;
-
 public class Rectangle extends Figure {
-
     //This class is used to describe a circle and
     //describe methods for calculating the perimeter and area of the rectangle
-
     int side2;
     public Rectangle(int side1, int side2) {
         super(side1);

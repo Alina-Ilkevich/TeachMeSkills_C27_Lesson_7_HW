@@ -5,9 +5,7 @@ import com.teachmeskills.lesson7.task1.Worker;
 import java.util.Scanner;
 public class Runner {
     public static void main(String[] args) {
-
         //This class is used to check the written code
-
         Accountant accountant = new Accountant();
         Director director = new Director();
         Worker worker = new Worker();
